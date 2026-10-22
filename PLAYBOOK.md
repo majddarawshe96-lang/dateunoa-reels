@@ -25,7 +25,7 @@ The owner has approved every post in advance. Do not ask for approval; schedule 
    Use only `out/reel_N.mp4` (1080x1920, 8 s). Look at one rendered frame to check nothing overflows (max ~9 rendered lines).
 5. Copy the mp4s to `reels/<YYYY-MM-DD>/dateunoa_reel_NN.mp4`, append the quotes (one per line, newlines replaced by spaces) to `used_quotes.txt`, commit and push to `main`.
 6. Schedule each reel with createScheduledPost (type REEL, showReelOnFeed true, autoPublish true) at its slot time (Asia/Jerusalem).
-7. Music: try `audioConfiguration` with a mood-fitting song on the first reel. If Metricool returns an authorization error, schedule all reels without audio.
+7. Music: skip `audioConfiguration`. Metricool returns an authorization error for the audio catalog on this account (checked 2026-10-22). Retry it only on Mondays, on the first reel; if it works, note it in NOTES.md and use music again.
 
 ## Slot plan (6 reels a day)
 | Time | Pillar | Sells | Built to be |
