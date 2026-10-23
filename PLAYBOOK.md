@@ -3,7 +3,7 @@
 Goal: sell the **dateunoa Collection** with short reels in the dating niche. Every post is built to be shared, saved or commented, and every caption points to the link.
 The owner has approved every post in advance. Do not ask for approval; schedule directly.
 
-> **If your run's prompt talks about Metricool, or you have no Buffer tools:** you are the old scheduled task. Instagram moved to Buffer (10 reels/day from 2026-10-26), so do NOT schedule anything in Metricool. Just check that the Buffer schedule exists if you can, and report: "Old Metricool task ran; nothing scheduled. Please replace it with the Buffer task." Then stop.
+> **If your run's prompt asks you to schedule Instagram reels in Metricool ("make sure tomorrow has 6 Instagram reels scheduled in Metricool"), or you have no Buffer tools:** you are the old scheduled task "dateunoa daily reels". (The current task, "dateunoa daily content", works through Buffer; this note is not for it.) Instagram moved to Buffer (10 reels/day from 2026-10-26), so do NOT schedule anything in Metricool. Just check that the Buffer schedule exists if you can, and report: "Old Metricool task ran; nothing scheduled. Please replace it with the Buffer task." Then stop.
 
 ## Products (all on Gumroad)
 | Book | Price | Who it's for | Promise |
