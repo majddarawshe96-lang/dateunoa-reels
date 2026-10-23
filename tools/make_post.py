@@ -1,7 +1,9 @@
 """Generate X-style quote posts for @dateunoa.
 
-Usage: python3 make_post.py <avatar> <out_dir> <name> "<quote 1>" "<quote 2>" ...
+Usage: python3 make_post.py [--music DIR] [--start K] <avatar> <out_dir> <name> "<quote 1>" "<quote 2>" ...
 Makes, per quote: post_N.png (1080x1350 feed post) and reel_N.mp4 (1080x1920, 8s).
+--music DIR: mix an original music bed from DIR/music_XX.m4a (rotates through the tracks,
+             starting at track K) and add a slow push-in so the reel has motion.
 """
 import subprocess
 import sys
@@ -70,22 +72,43 @@ def card(avatar, name, handle, quote, w, h):
 
 
 def main():
-    avatar_path, out_dir, name, *quotes = sys.argv[1:]
+    args = sys.argv[1:]
+    music_dir, start = None, 0
+    while args and args[0].startswith("--"):
+        flag = args.pop(0)
+        if flag == "--music":
+            music_dir = Path(args.pop(0))
+        elif flag == "--start":
+            start = int(args.pop(0))
+    avatar_path, out_dir, name, *quotes = args
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
     avatar = circle(avatar_path, AVATAR)
+    tracks = sorted(music_dir.glob("music_*.m4a")) if music_dir else []
     for i, q in enumerate(quotes, 1):
         card(avatar, name, "@dateunoa", q, 1080, 1350).save(out / f"post_{i}.png")
         frame = out / f"reel_{i}.png"
         card(avatar, name, "@dateunoa", q, 1080, 1920).save(frame)
-        subprocess.run([
-            "ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(frame),
-            "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
-            "-t", "8", "-vf", "fade=t=in:st=0:d=0.4,format=yuv420p", "-r", "30",
-            "-c:v", "libx264", "-preset", "medium", "-crf", "18",
-            "-c:a", "aac", "-shortest", "-movflags", "+faststart",
-            str(out / f"reel_{i}.mp4"),
-        ], check=True)
+        if tracks:
+            track = tracks[(start + i - 1) % len(tracks)]
+            subprocess.run([
+                "ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", str(frame),
+                "-i", str(track), "-t", "8",
+                "-vf", "scale=2160:3840,zoompan=z='1+0.00018*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=240:s=1080x1920:fps=30,fade=t=in:st=0:d=0.4,format=yuv420p",
+                "-af", "afade=t=in:d=0.5,afade=t=out:st=7:d=1",
+                "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart",
+                str(out / f"reel_{i}.mp4"),
+            ], check=True)
+        else:
+            subprocess.run([
+                "ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(frame),
+                "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
+                "-t", "8", "-vf", "fade=t=in:st=0:d=0.4,format=yuv420p", "-r", "30",
+                "-c:v", "libx264", "-preset", "medium", "-crf", "18",
+                "-c:a", "aac", "-shortest", "-movflags", "+faststart",
+                str(out / f"reel_{i}.mp4"),
+            ], check=True)
 
 
 if __name__ == "__main__":
