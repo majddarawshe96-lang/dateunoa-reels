@@ -8,5 +8,5 @@ DAYS = {"2026-10-31": {"promo": "women_page2", "posts": [
   ("T", "Not a situationship.\nA haunting.\n\nShows up at 1am,\ngone by morning,\nnever explains a thing.", "Happy Halloween, tag your ghost 👻"),  # 17:15
   ("SHE", "She says: \"It's fine,\nwe're just casual.\"\n\nShe means: \"I'm waiting to see\nif you'll ask for more.\"", "Ladies, true or not? 👀"),  # 18:45
   ("M", "Certainty looks like:\n\nPlans with a date on them.\nMeeting his friends.\nNo \"let's see\".", "Save this list ✨"),  # 20:15
-  ("B", "Mixed signals aren't a puzzle\nyou have to solve alone.\n\nThree books. One link.\nNo more guessing.", "All 3 books, link in bio 📚"),  # 21:45
+  ("B", "Mixed signals aren't a puzzle\nyou have to solve alone.\n\nThree books. One link.\nNo more guessing.", "Three books, zero guessing 📚"),  # 21:45
 ]}}
