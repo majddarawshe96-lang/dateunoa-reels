@@ -76,10 +76,11 @@ Promo reels come from tools/make_promo.py (covers and sample pages in tools/prom
 - What performs in this niche (vidIQ outliers, Oct 2026): first-person confessions ("I don't want an angry man."), certainty lines ("Nothing can stop a man who really wants to see you."), short standards lists ("Calm. Consistent. Makes plans. Not much to ask."), and men-vs-women contrasts that invite debate.
 
 ## Captions (tools/captions.py builds them — keep it as the single source)
-- Instagram: hook + the book's block + "📲 Link in bio" + 5 hashtags.
-- Facebook: hook + the book's block + "📲 Link in our page intro" + 3 hashtags.
-- X: hook + one short line + "Link in bio." + 2 hashtags (under 280 characters).
-Hooks: different every post, 1 emoji, with a share/save/comment nudge when it fits.
+Every caption markets the whole collection (all 3 ebooks), led by the book that fits the post. All 3 live behind ONE link in bio (a free link-in-bio page or the Gumroad profile page).
+- Instagram: hook + the book's line + the 3-book list + "📲 All 3 ebooks: link in bio" + 5 hashtags.
+- Facebook: same, with "📲 All 3 ebooks: link in our page intro" + 3 hashtags.
+- X: hook + "3 dating ebooks: What Do I Text Back? · What Do Men Want? · What Do Women Want? All 3: link in bio." + 2 hashtags (under 280 characters).
+Promo captions describe the current books (no claims that aren't in the PDFs). Hooks: different every post, 1 emoji, with a share/save/comment nudge when it fits.
 
 ## Weekly check (Mondays only)
 1. Buffer `list_posts` with `includeMetrics: true` for the last 7 days per channel (views, reach, shares, saves, comments). Instagram can also be checked in Metricool (IGRE23 views, IGRE11 reach, IGRE12 saves, IGRE21 shares).

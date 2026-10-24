@@ -84,13 +84,4 @@ DAYS = {
  ]},
 }
 
-PROMO_CAPTIONS = {
- "men_cover": "NEW: \"What Do Men Want?\" 🖤 What he's really looking for, how real interest looks, and what makes him stay.",
- "women_cover": "NEW: \"What Do Women Want?\" 🖤 What makes her feel safe, what makes her choose you, and the exact texts to send.",
- "bundle": "The dateunoa Collection 📚 \"What Do I Text Back?\" + \"What Do Men Want?\" + \"What Do Women Want?\" — all 3 for $56 (instead of $84). Buy 2, get 1 free.",
- "men_page": "A look inside \"What Do Men Want?\" 👀 What his texts really mean, and your best move for each one.",
- "women_page": "A look inside \"What Do Women Want?\" 👀 The texting rules women wish men knew, plus 30 ready-to-send texts.",
- "textback": "\"What Do I Text Back?\" 📱 The exact words for slow replies, mixed signals, ghosting & boundaries — without looking needy.",
- "men_page2": "Inside \"What Do Men Want?\" 👀 Is he into you, or keeping you as an option? Chapter 6 answers it.",
- "women_page2": "Inside \"What Do Women Want?\" 👀 Confident vs arrogant: she notices the difference instantly.",
-}
+# Promo captions live in tools/captions.py (single source).
