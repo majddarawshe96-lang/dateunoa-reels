@@ -1,0 +1,168 @@
+{
+ "title": "1:07 AM",
+ "keyword": "REPLY",
+ "size": [
+  720,
+  1280
+ ],
+ "fps": 30,
+ "target_seconds": [
+  35,
+  45
+ ],
+ "music": "../../../tools/music/music_05.m4a",
+ "music_volume": [
+  0.15,
+  0.6
+ ],
+ "scenes": [
+  {
+   "type": "clip",
+   "src": "shots/s1.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "4 months since he left.",
+     "start": 0.3,
+     "end": 4.3,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s2.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "1:07 AM.",
+     "start": 0.3,
+     "end": 4.3,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s3.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "The night he left without a word.",
+     "start": 0.3,
+     "end": 4.3,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "phone",
+   "contact": "Daniel",
+   "duration": 11.0,
+   "history": [
+    [
+     "stamp",
+     "Today 1:07 AM"
+    ],
+    [
+     "them",
+     "hey"
+    ],
+    [
+     "them",
+     "I miss you"
+    ]
+   ],
+   "events": [
+    {
+     "type": "draft",
+     "text": "You miss me?? I missed you every single day for months and you never once checked if I was okay, and now you just",
+     "start": 0.7,
+     "end": 4.8
+    },
+    {
+     "type": "send",
+     "text": "I'm glad you're okay. I'm not going back to what we were.",
+     "start": 5.2,
+     "end": 7.4
+    },
+    {
+     "type": "typing",
+     "start": 8.0,
+     "end": 9.6
+    }
+   ],
+   "captions": [
+    {
+     "text": "She almost sent the paragraph.",
+     "start": 3.9,
+     "end": 5.2,
+     "style": "thought",
+     "y": 900
+    },
+    {
+     "text": "He started typing. Then stopped.",
+     "start": 9.6,
+     "end": 11.0,
+     "style": "thought",
+     "y": 900
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s4.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "Peace was the answer.",
+     "start": 0.5,
+     "end": 4.7,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s5.mp4",
+   "trim": [
+    0.5,
+    6
+   ],
+   "captions": []
+  },
+  {
+   "type": "clip",
+   "src": "shots/s6.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "Comment REPLY for the exact message she sent",
+     "start": 0.4,
+     "end": 5.0,
+     "style": "cta",
+     "y": 640
+    }
+   ]
+  }
+ ]
+}

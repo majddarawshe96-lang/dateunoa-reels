@@ -1,0 +1,149 @@
+{
+ "title": "Same order, every Saturday",
+ "keyword": "ASK",
+ "size": [
+  720,
+  1280
+ ],
+ "fps": 30,
+ "target_seconds": [
+  35,
+  45
+ ],
+ "music": "../../../tools/music/music_06.m4a",
+ "music_volume": [
+  0.15,
+  0.6
+ ],
+ "scenes": [
+  {
+   "type": "clip",
+   "src": "shots/s1.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "Every Saturday. Same order.",
+     "start": 0.3,
+     "end": 4.7,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s2.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "Same almost.",
+     "start": 0.3,
+     "end": 4.2,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s3.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "His daughter had seen enough.",
+     "start": 0.3,
+     "end": 4.7,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s4.mp4",
+   "trim": [
+    0,
+    6.5
+   ],
+   "captions": [],
+   "line": "Sofia, would you like to have dinner with me on Friday? Just the two of us."
+  },
+  {
+   "type": "clip",
+   "src": "shots/s5.mp4",
+   "trim": [
+    0.5,
+    5.5
+   ],
+   "captions": []
+  },
+  {
+   "type": "clip",
+   "src": "shots/s6.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": []
+  },
+  {
+   "type": "phone",
+   "contact": "Sofia",
+   "duration": 7.5,
+   "history": [
+    [
+     "stamp",
+     "Today 8:14 PM"
+    ]
+   ],
+   "events": [
+    {
+     "type": "receive",
+     "text": "Hi, it's Sofia :) Is Friday at 7 good?",
+     "at": 0.6
+    },
+    {
+     "type": "send",
+     "text": "Friday at 7 is perfect. I'll book the table.",
+     "start": 1.6,
+     "end": 3.6
+    }
+   ],
+   "captions": [
+    {
+     "text": "Clear. Kind. With a plan.",
+     "start": 4.2,
+     "end": 7.5,
+     "style": "thought",
+     "y": 900
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s7.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "Comment ASK for the exact words he used",
+     "start": 0.4,
+     "end": 5.0,
+     "style": "cta",
+     "y": 640
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "title": "Read at 10:48",
+ "keyword": "TEXT",
+ "size": [
+  720,
+  1280
+ ],
+ "fps": 30,
+ "target_seconds": [
+  35,
+  45
+ ],
+ "music": "../../../tools/music/music_04.m4a",
+ "music_volume": [
+  0.15,
+  0.6
+ ],
+ "scenes": [
+  {
+   "type": "clip",
+   "src": "shots/s1.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "8:00 PM. He said he'd pick me up.",
+     "start": 0.3,
+     "end": 4.3,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s2.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": [
+    {
+     "text": "9:15 PM.",
+     "start": 0.3,
+     "end": 4.3,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s3.mp4",
+   "trim": [
+    0.5,
+    5
+   ],
+   "captions": [
+    {
+     "text": "He read it. Nothing.",
+     "start": 0.3,
+     "end": 4.2,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "phone",
+   "contact": "Karim",
+   "duration": 11.0,
+   "history": [
+    [
+     "stamp",
+     "Today 6:02 PM"
+    ],
+    [
+     "them",
+     "Pick you up at 8"
+    ],
+    [
+     "me",
+     "Can't wait!"
+    ],
+    [
+     "stamp",
+     "10:47 PM"
+    ],
+    [
+     "me",
+     "Hey, are you still coming?"
+    ],
+    [
+     "stamp",
+     "Read 10:48 PM"
+    ]
+   ],
+   "events": [
+    {
+     "type": "draft",
+     "text": "Did something happen?? Are you mad at me? I've been ready since 8 and I just don't understand why you",
+     "start": 0.8,
+     "end": 4.6
+    },
+    {
+     "type": "send",
+     "text": "I was looking forward to tonight. I'm not going to wait by the phone. Take care.",
+     "start": 5.0,
+     "end": 7.6
+    }
+   ],
+   "captions": [
+    {
+     "text": "No. Not this time.",
+     "start": 3.9,
+     "end": 5.0,
+     "style": "thought",
+     "y": 900
+    },
+    {
+     "text": "11:42 PM.",
+     "start": 8.2,
+     "end": 11.0,
+     "style": "thought",
+     "y": 1010
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s4.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "She didn't need his answer.",
+     "start": 0.4,
+     "end": 4.6,
+     "style": "thought",
+     "y": 260
+    }
+   ]
+  },
+  {
+   "type": "clip",
+   "src": "shots/s5.mp4",
+   "trim": [
+    0,
+    4.5
+   ],
+   "captions": []
+  },
+  {
+   "type": "clip",
+   "src": "shots/s6.mp4",
+   "trim": [
+    0.5,
+    6
+   ],
+   "captions": []
+  },
+  {
+   "type": "clip",
+   "src": "shots/s7.mp4",
+   "trim": [
+    0,
+    5
+   ],
+   "captions": [
+    {
+     "text": "Comment TEXT for the exact message she sent",
+     "start": 0.4,
+     "end": 5.0,
+     "style": "cta",
+     "y": 640
+    }
+   ]
+  }
+ ]
+}
