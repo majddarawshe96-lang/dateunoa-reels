@@ -46,7 +46,8 @@ def slide(text, cover=False, hook=False):
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
     width = W - 2 * MARGIN
-    for size in ((66, 60, 54) if hook else (54, 50, 46, 42)):  # shrink long slides to fit
+    sizes = (66, 60, 54) if hook else ((62, 56, 50) if len(text) < 70 and "\n\n" not in text else (54, 50, 46, 42))
+    for size in sizes:  # shrink long slides to fit
         font = ImageFont.truetype(HOOKFONT if hook else FONT, size)
         lines = wrap_no_orphans(d, text, font, width)
         lh, bh = int(size * 1.38), int(size * 0.72)
