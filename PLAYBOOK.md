@@ -30,10 +30,12 @@ The owner has approved every post in advance. Do not ask for approval; schedule 
    Our posts are the ones whose video URL starts with the raw.githubusercontent.com link above. Query with `execute_query`:
    `posts(first:100, input:{organizationId:"6ac7b051734c0ca7668122d6", filter:{dueAt:{start:"<day>T00:00:00+02:00", end:"<day>T23:59:59+02:00"}, status:[scheduled,sent,sending]}})`
    (use +03:00 while Israel is on summer time).
-2. Write the day's content as `content/days/<YYYY-MM-DD>.py` (same format as `content/week1.py`: `DAYS = {"<date>": {"promo": <name>, "posts": [9 × (pillar, quote, hook)]}}` ; promo captions live in `tools/captions.py`). Promo rotation by day: men_cover, women_cover, bundle, men_page, women_page, textback, men_page2, women_page2 (index = day-of-year % 8).
+2. Write the day's content as `content/days/<YYYY-MM-DD>.py` (same format as `content/week1.py`: `DAYS = {"<date>": {"promo": <name>, "posts": [9 × (pillar, quote, hook, mood)]}}` ; promo captions live in `tools/captions.py`).
+   **mood** picks the music and must fit the quote's feeling: `tender` (love, what real interest looks like), `melancholy` (left on read, heartbreak, walking away), `playful` (funny/relatable texting, most He says/She says), `confident` (standards, self-respect, "Men: ..."), `hopeful` (moving on, the soft pitch). Vary it through the day. Promo rotation by day: men_cover, women_cover, bundle, men_page, women_page, textback, men_page2, women_page2 (index = day-of-year % 8).
 3. Never reuse a quote from `used_quotes.txt` (no near-duplicates either). Check with a quick word-overlap script before rendering.
-4. Render: `python3 tools/make_post.py --music tools/music --start <day-of-year % 6> tools/avatar.jpg out/<date> dateunoa "<q1>" ... "<q9>"`.
-   Look at one frame per day (no line over the edge, no orphan word on its own line). Copy `out/<date>/reel_N.mp4` to `reels/<date>/dq_0N.mp4`.
+4. Render with mood-matched music: `python3 tools/render_day.py content/days/<date>.py <date> --copy` (writes `out/<date>/reel_N.mp4` and copies them to `reels/<date>/dq_0N.mp4`).
+   Every reel must have audible music (Instagram music can't be added through Buffer, so the music is baked into the video). Check one file: `ffmpeg -i reels/<date>/dq_01.mp4 -af volumedetect -f null -` should show a mean volume around -18 dB, not -91.
+   Look at one frame per day (no line over the edge, no orphan word on its own line).
 5. Append the quotes (one per line, newlines replaced by spaces) to `used_quotes.txt`, commit, push to `main`.
 6. Build the Buffer batch: `python3 tools/buffer_plan.py content/days/<date>.py out/bp --batch 30` → `out/bp/batch_00.json` holds all 30 posts of the day (10 slots × 3 channels). Send it with Buffer `execute_mutation` (mutation + variables from the file). Max 30 aliases per request.
 7. Verify: re-run the query from step 1 for that day and confirm 10 posts per channel and no `error`. If Buffer rejects a post, fix and resend only that post.
@@ -65,7 +67,7 @@ Each week leans on one topic across all pillars, so the feed tells a story and t
 After Nov 22, repeat the cycle with the Monday analytics deciding the order.
 
 ## Visual style (tools/make_post.py — don't change it)
-Black background, X/Twitter-post look: round avatar, bold "dateunoa", grey "@dateunoa", white Inter text, slow push-in, original lo-fi music bed (tools/music, made by tools/make_music.py, royalty-free).
+Black background, X/Twitter-post look: round avatar, bold "dateunoa", grey "@dateunoa", white Inter text, slow push-in, original mood-matched music (tools/music/<mood>/, 5 moods x 3 tracks, made by tools/make_mood_music.py, royalty-free; chosen per quote by tools/render_day.py).
 Promo reels come from tools/make_promo.py (covers and sample pages in tools/promo_assets).
 
 ## Quote rules
