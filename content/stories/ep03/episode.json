@@ -70,7 +70,7 @@
   {
    "type": "phone",
    "contact": "Daniel",
-   "duration": 11.0,
+   "duration": 14.0,
    "history": [
     [
      "stamp",
@@ -94,14 +94,21 @@
     },
     {
      "type": "send",
+     "hidden": true,
      "text": "I'm glad you're okay. I'm not going back to what we were.",
      "start": 5.2,
-     "end": 7.4
+     "end": 7.2
     },
     {
      "type": "typing",
-     "start": 8.0,
-     "end": 9.6
+     "start": 8.4,
+     "end": 11.0
+    },
+    {
+     "type": "receive",
+     "hidden": true,
+     "text": "I know. I didn't text to get you back. I texted to say sorry for how I left. You deserved a goodbye.",
+     "at": 11.0
     }
    ],
    "captions": [
@@ -110,14 +117,21 @@
      "start": 3.9,
      "end": 5.2,
      "style": "thought",
-     "y": 900
+     "y": 1000
     },
     {
-     "text": "He started typing. Then stopped.",
-     "start": 9.6,
-     "end": 11.0,
+     "text": "She sent one sentence instead.",
+     "start": 7.2,
+     "end": 8.4,
      "style": "thought",
-     "y": 900
+     "y": 1000
+    },
+    {
+     "text": "Then he answered.",
+     "start": 11.2,
+     "end": 14.0,
+     "style": "thought",
+     "y": 1000
     }
    ]
   },
@@ -125,14 +139,14 @@
    "type": "clip",
    "src": "shots/s4.mp4",
    "trim": [
-    0,
-    5
+    0.5,
+    6
    ],
    "captions": [
     {
-     "text": "Peace was the answer.",
-     "start": 0.5,
-     "end": 4.7,
+     "text": "She never expected him to say that.",
+     "start": 0.4,
+     "end": 5.2,
      "style": "thought",
      "y": 260
     }
@@ -142,21 +156,12 @@
    "type": "clip",
    "src": "shots/s5.mp4",
    "trim": [
-    0.5,
-    6
-   ],
-   "captions": []
-  },
-  {
-   "type": "clip",
-   "src": "shots/s6.mp4",
-   "trim": [
     0,
     5
    ],
    "captions": [
     {
-     "text": "Comment REPLY for the exact message she sent",
+     "text": "Comment REPLY for what she said and what he answered",
      "start": 0.4,
      "end": 5.0,
      "style": "cta",

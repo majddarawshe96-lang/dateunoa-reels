@@ -72,10 +72,17 @@
    "src": "shots/s4.mp4",
    "trim": [
     0,
-    6.5
+    5
    ],
-   "captions": [],
-   "line": "Sofia, would you like to have dinner with me on Friday? Just the two of us."
+   "captions": [
+    {
+     "text": "He finally said it.",
+     "start": 0.3,
+     "end": 4.7,
+     "style": "thought",
+     "y": 260
+    }
+   ]
   },
   {
    "type": "clip",
@@ -91,14 +98,14 @@
    "src": "shots/s6.mp4",
    "trim": [
     0,
-    4.5
+    4
    ],
    "captions": []
   },
   {
    "type": "phone",
-   "contact": "Sofia",
-   "duration": 7.5,
+   "contact": "Sofia (café)",
+   "duration": 8.0,
    "history": [
     [
      "stamp",
@@ -107,24 +114,31 @@
    ],
    "events": [
     {
-     "type": "receive",
-     "text": "Hi, it's Sofia :) Is Friday at 7 good?",
-     "at": 0.6
+     "type": "typing",
+     "start": 0.6,
+     "end": 2.6
     },
     {
-     "type": "send",
-     "text": "Friday at 7 is perfect. I'll book the table.",
-     "start": 1.6,
-     "end": 3.6
+     "type": "receive",
+     "hidden": true,
+     "text": "Yes. Friday at 7. And I have to tell you something about every Saturday :)",
+     "at": 2.6
     }
    ],
    "captions": [
     {
-     "text": "Clear. Kind. With a plan.",
-     "start": 4.2,
-     "end": 7.5,
+     "text": "That night, she texted him.",
+     "start": 0.4,
+     "end": 2.6,
      "style": "thought",
-     "y": 900
+     "y": 1000
+    },
+    {
+     "text": "He read it three times.",
+     "start": 3.6,
+     "end": 8.0,
+     "style": "thought",
+     "y": 1000
     }
    ]
   },
@@ -137,7 +151,7 @@
    ],
    "captions": [
     {
-     "text": "Comment ASK for the exact words he used",
+     "text": "Comment ASK for his exact words and her answer",
      "start": 0.4,
      "end": 5.0,
      "style": "cta",

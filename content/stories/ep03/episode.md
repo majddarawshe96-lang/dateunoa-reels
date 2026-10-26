@@ -1,8 +1,10 @@
 # ep03: 1:07 AM
 
-**Logline:** Four months after Daniel walked out, Amara has finally rebuilt her peace. At 1:07 AM he texts 'I miss you'. She types the whole paragraph, deletes it, and sends one sentence that keeps her peace.
+**Logline:** Four months after Daniel walked out without a word, Amara has rebuilt her peace. At 1:07 AM: 'I miss you.' She deletes the paragraph and sends one sentence. His answer makes her cry. The video never shows either.
 
-**Keyword:** REPLY · **Book:** What Do I Text Back? · **Length:** about 40 s · **Krea cost:** about 1205 credits (+ retakes)
+**Keyword:** REPLY · **Book:** What Do I Text Back? · **Length:** about 38 s · **Krea cost:** about 1064 credits (+ retakes)
+
+**Open loop:** the key messages appear only as hidden bubbles. The video never shows the words or the ending; the DM does.
 
 ## Cast (copy word for word into every prompt)
 - AMARA, a woman in her early 30s with dark brown skin, short natural coily hair, a silver nose ring, an oversized soft grey sweatshirt
@@ -37,50 +39,51 @@ Wide shot from inside the room, static, dreamy soft focus.
 No dialogue, mouth closed, no talking. No on-screen text, no subtitles, no watermark.
 ```
 
-### s4 (hailuo-2.3-fast 6s)
+### s4 (kling-3.0 8s (hero))
 ```
 Stylized 3D animated feature-film look, soft cinematic lighting, shallow depth of field, vertical 9:16.
 A cozy small apartment at night full of plants, an easel with a half-finished colorful painting, a warm floor lamp, a big window with city lights.
-AMARA, a woman in her early 30s with dark brown skin, short natural coily hair, a silver nose ring, an oversized soft grey sweatshirt, puts the phone face-down, switches off the floor lamp, lies down on the couch under a blanket and exhales peacefully, eyes closing.
-Medium shot, static, the room goes dim with only city light.
+AMARA, a woman in her early 30s with dark brown skin, short natural coily hair, a silver nose ring, an oversized soft grey sweatshirt, sits on the floor against the couch reading her phone; a single tear rolls down her cheek, she presses her lips together, then lets out a long shaky breath and almost smiles.
+Close-up on her face, the phone screen faces away from the camera, slow push-in.
 No dialogue, mouth closed, no talking. No on-screen text, no subtitles, no watermark.
 ```
 
-### s5 (kling-3.0 8s (hero))
+### s5 (hailuo-2.3-fast 6s)
 ```
 Stylized 3D animated feature-film look, soft cinematic lighting, shallow depth of field, vertical 9:16.
-The same apartment the next morning, golden sunlight pouring through the window onto the plants and the finished painting.
-AMARA, a woman in her early 30s with dark brown skin, short natural coily hair, a silver nose ring, an oversized soft grey sweatshirt, waters the plants with a small watering can and smiles to herself, light and free.
-Medium close-up, slow push-in, warm sunbeams.
-No dialogue, mouth closed, no talking. No on-screen text, no subtitles, no watermark.
-```
-
-### s6 (hailuo-2.3-fast 6s)
-```
-Stylized 3D animated feature-film look, soft cinematic lighting, shallow depth of field, vertical 9:16.
-Close view of the window sill with plants in morning sunlight, gentle breeze moving a sheer curtain.
-Static shot.
+The window sill with plants at night, city lights outside, a phone lying face-down glowing softly next to a pot.
+Static close-up.
 No dialogue, mouth closed, no talking. No on-screen text, no subtitles, no watermark.
 ```
 
 ## Phone scene
-Contact **Daniel**, 11.0 s. Defined in `episode.json` (preview free with `--only phone`).
+Contact **Daniel**, 14.0 s, defined in `episode.json` (hidden bubbles; free preview with `--only phone`).
 
 ## DM reply (send to everyone who comments REPLY)
 ```
-Here's the message she sent 🤍
-"I'm glad you're okay. I'm not going back to what we were."
-Why it works: It's kind, it's final, and it gives him nothing to argue with. No history lesson, no door left half open. Peace doesn't need a paragraph.
-It's one of the scripts in "What Do I Text Back?". All 3 dateunoa ebooks are in my bio if you want the rest.
+Here's what she sent, and what he answered 🤍
+
+Her (1:09 AM): "I'm glad you're okay. I'm not going back to what we were."
+Him (1:12 AM): "I know. I didn't text to get you back. I texted to say sorry for how I left. You deserved a goodbye."
+
+She wrote back: "Thank you. I hope you find peace too." Then she slept better than she had in four months.
+
+Why it works: One calm sentence closed the door without a fight. No history lesson, nothing for him to argue with. And it left room for the apology she was owed.
+
+The words come from "What Do I Text Back?". All 3 dateunoa ebooks are in my bio if you want the rest.
 ```
 
 ## Post captions
 **Instagram:** 4 months of healing. Then 1:07 AM: "I miss you." 🌙
 
-Comment REPLY and I'll send you the exact message she sent 👇
+Comment REPLY and I'll send you what she said and what he answered 👇
 
 #datingadvice #healing #movingon #relationships #selfrespect
 
-**Facebook:** same text, first 3 hashtags.
+**Facebook:** 4 months of healing. Then 1:07 AM: "I miss you." 🌙
 
-**X:** 4 months of healing. Then 1:07 AM: "I miss you." 🌙 Reply REPLY and I'll DM you the exact message she sent. #datingadvice #relationships
+Comment REPLY and I'll send you what she said and what he answered 👇
+
+#datingadvice #healing #movingon
+
+**X:** 4 months of healing. Then 1:07 AM: "I miss you." 🌙 Reply REPLY and I'll DM you how it ended. #datingadvice #relationships

@@ -70,7 +70,7 @@
   {
    "type": "phone",
    "contact": "Karim",
-   "duration": 11.0,
+   "duration": 14.0,
    "history": [
     [
      "stamp",
@@ -106,9 +106,21 @@
     },
     {
      "type": "send",
+     "hidden": true,
      "text": "I was looking forward to tonight. I'm not going to wait by the phone. Take care.",
      "start": 5.0,
-     "end": 7.6
+     "end": 7.4
+    },
+    {
+     "type": "typing",
+     "start": 9.0,
+     "end": 11.2
+    },
+    {
+     "type": "receive",
+     "hidden": true,
+     "text": "You're right. I messed up. Tomorrow, 8 PM. I'll be at your door at 7:55.",
+     "at": 11.2
     }
    ],
    "captions": [
@@ -117,14 +129,21 @@
      "start": 3.9,
      "end": 5.0,
      "style": "thought",
-     "y": 900
+     "y": 1000
     },
     {
-     "text": "11:42 PM.",
-     "start": 8.2,
-     "end": 11.0,
+     "text": "11:42 PM. One sentence.",
+     "start": 7.4,
+     "end": 9.0,
      "style": "thought",
-     "y": 1010
+     "y": 1085
+    },
+    {
+     "text": "12:03 AM. He replied.",
+     "start": 11.4,
+     "end": 14.0,
+     "style": "thought",
+     "y": 1085
     }
    ]
   },
@@ -132,14 +151,14 @@
    "type": "clip",
    "src": "shots/s4.mp4",
    "trim": [
-    0,
-    5
+    0.5,
+    6
    ],
    "captions": [
     {
-     "text": "She didn't need his answer.",
+     "text": "She didn't expect that.",
      "start": 0.4,
-     "end": 4.6,
+     "end": 5.2,
      "style": "thought",
      "y": 260
     }
@@ -150,29 +169,11 @@
    "src": "shots/s5.mp4",
    "trim": [
     0,
-    4.5
-   ],
-   "captions": []
-  },
-  {
-   "type": "clip",
-   "src": "shots/s6.mp4",
-   "trim": [
-    0.5,
-    6
-   ],
-   "captions": []
-  },
-  {
-   "type": "clip",
-   "src": "shots/s7.mp4",
-   "trim": [
-    0,
     5
    ],
    "captions": [
     {
-     "text": "Comment TEXT for the exact message she sent",
+     "text": "Comment TEXT for her message and his reply",
      "start": 0.4,
      "end": 5.0,
      "style": "cta",
