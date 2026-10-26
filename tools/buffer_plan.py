@@ -33,7 +33,7 @@ def build(days, promo_captions, d_from=None, d_to=None, ig_from=None, nets=("ins
         if (d_from and d < d_from) or (d_to and d > d_to):
             continue
         n0 = date.fromisoformat(d).toordinal() * 10
-        items = [(p, h, f"{RAW}{d}/dq_{i + 1:02d}.mp4", None) for i, (p, q, h) in enumerate(v["posts"])]
+        items = [(post[0], post[2], f"{RAW}{d}/dq_{i + 1:02d}.mp4", None) for i, post in enumerate(v["posts"])]
         items.insert(4, ("PROMO", None, f"{RAW}promo/promo_{v['promo']}.mp4", promo_captions[v["promo"]]))
         for si, (p, h, url, pt) in enumerate(items):
             for net in nets:

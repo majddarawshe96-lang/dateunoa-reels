@@ -93,7 +93,7 @@ for key, v in w1.DAYS.items():
         if c == "P":
             rows.append(f'<li><span class="t">{t}</span><span class="pill p-P">Promo</span><span class="q">{esc(PROMO_NAME[v["promo"]])} reel</span></li>')
             continue
-        p, q, h = posts[qi]
+        p, q, h = posts[qi][:3]
         qi += 1
         rows.append(f'<li><span class="t">{t}</span><span class="pill p-{p}">{p}</span><span class="q">{esc(q).replace(chr(10)*2, " / ").replace(chr(10), " / ")}</span></li>')
     nets = "Facebook + X" if dd < date(2026, 10, 26) else "Instagram + Facebook + X"
