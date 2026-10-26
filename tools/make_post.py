@@ -2,6 +2,7 @@
 
 Usage: python3 make_post.py [--music DIR] [--start K] <avatar> <out_dir> <name> "<quote 1>" "<quote 2>" ...
 Makes, per quote: post_N.png (1080x1350 feed post) and reel_N.mp4 (1080x1920, 8s).
+--tracks a.m4a,b.m4a,...: one music file per quote (mood-matched, chosen by tools/render_day.py).
 --music DIR: mix an original music bed from DIR/music_XX.m4a (rotates through the tracks,
              starting at track K) and add a slow push-in so the reel has motion.
 """
@@ -73,13 +74,15 @@ def card(avatar, name, handle, quote, w, h):
 
 def main():
     args = sys.argv[1:]
-    music_dir, start = None, 0
+    music_dir, start, explicit = None, 0, None
     while args and args[0].startswith("--"):
         flag = args.pop(0)
         if flag == "--music":
             music_dir = Path(args.pop(0))
         elif flag == "--start":
             start = int(args.pop(0))
+        elif flag == "--tracks":  # one music file per quote, comma-separated (from tools/render_day.py)
+            explicit = [Path(x) for x in args.pop(0).split(",")]
     avatar_path, out_dir, name, *quotes = args
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
@@ -89,8 +92,8 @@ def main():
         card(avatar, name, "@dateunoa", q, 1080, 1350).save(out / f"post_{i}.png")
         frame = out / f"reel_{i}.png"
         card(avatar, name, "@dateunoa", q, 1080, 1920).save(frame)
-        if tracks:
-            track = tracks[(start + i - 1) % len(tracks)]
+        if explicit or tracks:
+            track = explicit[i - 1] if explicit else tracks[(start + i - 1) % len(tracks)]
             subprocess.run([
                 "ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", str(frame),
                 "-i", str(track), "-t", "8",
