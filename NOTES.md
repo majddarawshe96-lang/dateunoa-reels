@@ -10,3 +10,6 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 
 ## 2026-10-27 (daily run)
 - X channel 6ac7b0f46a5c39ccb6520e30 is no longer in Buffer (org limit is 3 channels; the slot now holds the masculinepack Instagram). Our X posts are gone. Scheduled 2026-11-03 on Instagram + Facebook only (10 each). Waiting on the owner: reconnect X or confirm X is dropped.
+
+## 2026-10-28 (daily run)
+- Scheduled 2026-11-04 (promo women_page) on Instagram + Facebook, 10 each. X still not in Buffer (still waiting on the owner). No error posts in the last 24 h. Schedule now filled through 2026-11-04.
