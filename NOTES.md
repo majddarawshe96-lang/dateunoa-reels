@@ -13,3 +13,8 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 
 ## 2026-10-28 (daily run)
 - Scheduled 2026-11-04 (promo women_page) on Instagram + Facebook, 10 each. X still not in Buffer (still waiting on the owner). No error posts in the last 24 h. Schedule now filled through 2026-11-04.
+
+## 2026-10-29 (daily run)
+- Scheduled 2026-11-05 (promo textback) on Instagram + Facebook, 10 each, no errors. X still not in Buffer (still waiting on the owner). Schedule now filled through 2026-11-05.
+- Error posts in last 24 h: our IG reel 2026-10-29 12:45 (dq_04) failed with Buffer "unknown error"; rescheduled to 2026-10-29 22:30. Also a masculinepack IG carousel (14:55) was flagged by Instagram as potential spam; not a dateunoa post, left alone and reported.
+- Note: the Buffer MCP no longer exposes execute_mutation/execute_query; posts were created one by one with create_post from out/bp/batch_00.json (X entries skipped).
