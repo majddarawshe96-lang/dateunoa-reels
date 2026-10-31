@@ -22,3 +22,7 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 ## 2026-10-30 (daily run)
 - Scheduled 2026-11-06 (promo men_page2, first day of the "slow replies & ghosting" week) on Instagram + Facebook, 10 each, no errors. X still not in Buffer (still waiting on the owner). Schedule now filled through 2026-11-06.
 - Error posts in last 24 h: our IG reel 2026-10-30 09:45 (dq_02) failed with Buffer "unknown error" again (2nd day in a row for one IG reel); rescheduled to 2026-10-30 22:30. Three masculinepack IG carousels (Oct 29 21:36, Oct 30 11:23, Oct 30 17:06) were flagged by Instagram as potential spam; not dateunoa posts, left alone and reported.
+
+## 2026-10-31 (daily run)
+- Scheduled 2026-11-07 (promo women_page2) on Instagram + Facebook, 10 each, no errors. X still not in Buffer (still waiting on the owner). Schedule now filled through 2026-11-07.
+- Error posts in last 24 h: none of ours. Three masculinepack IG carousels (Oct 30 21:33, Oct 31 11:23, Oct 31 17:03) were flagged by Instagram as potential spam; not dateunoa posts, left alone and reported.
