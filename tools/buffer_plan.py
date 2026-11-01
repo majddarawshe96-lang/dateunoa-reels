@@ -27,7 +27,7 @@ def due(day, hhmm):
     return dt.isoformat()
 
 
-def build(days, promo_captions, d_from=None, d_to=None, ig_from=None, nets=("instagram", "facebook", "twitter")):
+def build(days, promo_captions, d_from=None, d_to=None, ig_from=None, nets=("instagram", "facebook")):  # X dropped 2026-11-01
     plan = []
     for d, v in days.items():
         if (d_from and d < d_from) or (d_to and d > d_to):
