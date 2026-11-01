@@ -30,3 +30,7 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 ## 2026-11-01 (owner request)
 - X dropped for good (owner). Playbook updated: Instagram + Facebook only.
 - New format: X-style "thread" carousels (tools/make_thread.py), 2 a day at 10:30 and 19:30 on Instagram + Facebook. Scheduled 2026-11-02 → 2026-11-07 (12 threads, 24 posts, no errors). Content in content/threads/, slides in reels/threads/, used lines in used_threads.txt.
+
+## 2026-11-01 (daily run)
+- Scheduled 2026-11-08 (promo men_cover) on Instagram + Facebook: 10 reels + 2 thread carousels each, no errors. Nov 2–7 checked: 12/12 per channel. Schedule now filled through 2026-11-08.
+- Error posts in last 24 h: our IG reel 2026-11-01 15:45 (dq_05) failed with Buffer "unknown error" (3rd time in 4 days for one IG reel); rescheduled to 2026-11-01 22:30. Three masculinepack IG carousels (Oct 31 21:37, Nov 1 11:24, Nov 1 17:01) were flagged by Instagram as potential spam; not dateunoa posts, left alone.
