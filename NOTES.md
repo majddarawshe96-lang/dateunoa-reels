@@ -26,3 +26,7 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 ## 2026-10-31 (daily run)
 - Scheduled 2026-11-07 (promo women_page2) on Instagram + Facebook, 10 each, no errors. X still not in Buffer (still waiting on the owner). Schedule now filled through 2026-11-07.
 - Error posts in last 24 h: none of ours. Three masculinepack IG carousels (Oct 30 21:33, Oct 31 11:23, Oct 31 17:03) were flagged by Instagram as potential spam; not dateunoa posts, left alone and reported.
+
+## 2026-11-01 (owner request)
+- X dropped for good (owner). Playbook updated: Instagram + Facebook only.
+- New format: X-style "thread" carousels (tools/make_thread.py), 2 a day at 10:30 and 19:30 on Instagram + Facebook. Scheduled 2026-11-02 → 2026-11-07 (12 threads, 24 posts, no errors). Content in content/threads/, slides in reels/threads/, used lines in used_threads.txt.
