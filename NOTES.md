@@ -34,3 +34,11 @@ Data: Buffer metrics for our posts (raw.githubusercontent videos) Oct 23–26: 7
 ## 2026-11-01 (daily run)
 - Scheduled 2026-11-08 (promo men_cover) on Instagram + Facebook: 10 reels + 2 thread carousels each, no errors. Nov 2–7 checked: 12/12 per channel. Schedule now filled through 2026-11-08.
 - Error posts in last 24 h: our IG reel 2026-11-01 15:45 (dq_05) failed with Buffer "unknown error" (3rd time in 4 days for one IG reel); rescheduled to 2026-11-01 22:30. Three masculinepack IG carousels (Oct 31 21:37, Nov 1 11:24, Nov 1 17:01) were flagged by Instagram as potential spam; not dateunoa posts, left alone.
+
+## 2026-11-02 (Mon) weekly check
+Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads only started Nov 2, too early).
+- **Instagram**: 10.9k views, 9.0k reach, 18 shares, 31 saves, 1 comment (~135 views/reel). Breakout: M2 20:15 on Oct 28, "Real interest looks like: a plan, a time, and him actually showing up." (1,388 views, 8 shares, 7 saves). By slot (shares+saves): M2 21, T 7, M 6, S 5, T2 3, W 2, SHE 2, B 2, HE 1, **PROMO 0** (504 views over 8 reels, ~60 each, lowest reach and zero engagement).
+- **Facebook**: 5.4k impressions, 1 share. Reach is concentrated in M 09:45 (2,694), S 11:15 (895), HE 15:45 (762), T2 17:15 (583), W 12:45 (342). T 08:15, SHE 18:45, M2 20:15, B 21:45 and PROMO get ~10 impressions per post (same as last week: FB only distributes the late-morning/afternoon posts).
+- Decisions: first week with ranking data, so no slot swap yet (rule is two losing weeks). Lean harder into short standards lists / "real interest looks like" certainty lines in M and M2. Watch PROMO on IG: if it is last again next Monday, swap 14:00 to a second M-style standards reel and move the promo into the B slot caption.
+- Errors: IG reels keep failing with Buffer "unknown error" about once a day (Oct 29, 30, Nov 1); each was rescheduled. No dateunoa errors in the last 24 h. masculinepack IG carousels are still being flagged as spam by Instagram daily (3 more Nov 1–2); not our channel, left alone.
+- Schedule: filled through 2026-11-09 (10 reels + 2 thread carousels per day on IG and FB).
