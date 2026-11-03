@@ -42,3 +42,7 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Decisions: first week with ranking data, so no slot swap yet (rule is two losing weeks). Lean harder into short standards lists / "real interest looks like" certainty lines in M and M2. Watch PROMO on IG: if it is last again next Monday, swap 14:00 to a second M-style standards reel and move the promo into the B slot caption.
 - Errors: IG reels keep failing with Buffer "unknown error" about once a day (Oct 29, 30, Nov 1); each was rescheduled. No dateunoa errors in the last 24 h. masculinepack IG carousels are still being flagged as spam by Instagram daily (3 more Nov 1–2); not our channel, left alone.
 - Schedule: filled through 2026-11-09 (10 reels + 2 thread carousels per day on IG and FB).
+
+## 2026-11-03 (daily run)
+- Scheduled 2026-11-10 (promo bundle, "slow replies & ghosting" week) on Instagram + Facebook: 10 reels + 2 thread carousels each, no errors. Nov 4–9 checked: 12/12 per channel. Schedule now filled through 2026-11-10.
+- Error posts in last 24 h: none of ours. Three masculinepack IG carousels (Nov 2 21:38, Nov 3 11:25, Nov 3 17:07) flagged by Instagram as potential spam; not dateunoa posts, left alone.
