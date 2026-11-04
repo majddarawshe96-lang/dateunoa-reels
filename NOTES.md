@@ -46,3 +46,7 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 ## 2026-11-03 (daily run)
 - Scheduled 2026-11-10 (promo bundle, "slow replies & ghosting" week) on Instagram + Facebook: 10 reels + 2 thread carousels each, no errors. Nov 4–9 checked: 12/12 per channel. Schedule now filled through 2026-11-10.
 - Error posts in last 24 h: none of ours. Three masculinepack IG carousels (Nov 2 21:38, Nov 3 11:25, Nov 3 17:07) flagged by Instagram as potential spam; not dateunoa posts, left alone.
+
+## 2026-11-04 (daily run)
+- Scheduled 2026-11-11 (promo men_page, "slow replies & ghosting" week) on Instagram + Facebook: 10 reels + 2 thread carousels each, no errors. Nov 5–10 checked: 12/12 per channel. Schedule now filled through 2026-11-11.
+- Error posts in last 24 h: none of ours. Three masculinepack IG carousels (Nov 3 21:29, Nov 4 11:28, Nov 4 16:59) flagged by Instagram as potential spam; not dateunoa posts, left alone.
