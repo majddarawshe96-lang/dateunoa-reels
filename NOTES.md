@@ -86,3 +86,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap check caught a near-copy HE translator ("Let me know when you're free" vs "'Let me know' is not a plan") and a thread slide ("we should hang out sometime / Friday 7"); replaced before rendering.
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 9 21:23, Nov 10 11:32, Nov 10 17:05) flagged by Instagram as potential spam; not dateunoa posts, left alone.
 - Still pending owner decision from Monday: swap the 14:00 PROMO slot (lost two weeks running).
+
+## 2026-11-11 (daily run)
+- **Facebook page still not in Buffer** (fourth day; list_channels: dateunoa IG, masculinepack IG, therichmath IG + TikTok). Owner needs to reconnect the Dateunoa page. Nov 15–18 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-18 (promo bundle, day 6 of the "effort, consistency & what men/women notice" week) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 12–17 IG checked: 12/12 each. Schedule filled through 2026-11-18 (IG only).
+- Overlap check caught a near-copy T reel ("no worries if you're busy"), a SHE translator ("You didn't have to do that") and three thread slides (same person with his friends, "men don't fall for perfect", phone face down); replaced before rendering.
+- Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 10 21:23, Nov 11 11:25, Nov 11 16:56) flagged by Instagram as potential spam; not dateunoa posts, left alone.
+- Still pending owner decision from Monday: swap the 14:00 PROMO slot (lost two weeks running).
