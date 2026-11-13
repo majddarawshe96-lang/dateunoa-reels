@@ -100,3 +100,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - The word-overlap script missed several near-copies that a keyword grep caught ("Did you get home okay?", "Text me when you land", "You remembered that?", "low effort vs real effort" thread, "texts when bored"); all replaced before rendering. Grep key phrases as well as running the overlap check.
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 11 21:26, Nov 12 11:23, Nov 12 17:08) flagged by Instagram as potential spam; not dateunoa posts, left alone.
 - Still pending owner decision from Monday: swap the 14:00 PROMO slot (lost two weeks running). Next week (Nov 20–22) switches to the holiday "send it to the group chat" theme.
+
+## 2026-11-13 (daily run)
+- **Facebook page still not in Buffer** (sixth day; list_channels: dateunoa IG, masculinepack IG, therichmath IG + TikTok). Owner needs to reconnect the Dateunoa page. Nov 15–20 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-20 (promo women_page, day 1 of the holiday "send it to the group chat" week, bundle push) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 14–19 IG checked: 12/12 each. Schedule filled through 2026-11-20 (IG only).
+- Overlap check caught a SHE translator too close to "You don't have to plan anything big" and a "same man on Tuesday" echo; replaced before rendering.
+- Error posts in last 24 h: none of ours. masculinepack IG: three carousels flagged by Instagram as potential spam (Nov 12 21:22, Nov 13 11:28, Nov 13 17:08) and one reel (Nov 13 08:55) with Buffer "unknown error"; not dateunoa posts, left alone.
+- Still pending owner decision from Monday: swap the 14:00 PROMO slot (lost two weeks running).
