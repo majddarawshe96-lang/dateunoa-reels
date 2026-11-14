@@ -107,3 +107,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap check caught a SHE translator too close to "You don't have to plan anything big" and a "same man on Tuesday" echo; replaced before rendering.
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels flagged by Instagram as potential spam (Nov 12 21:22, Nov 13 11:28, Nov 13 17:08) and one reel (Nov 13 08:55) with Buffer "unknown error"; not dateunoa posts, left alone.
 - Still pending owner decision from Monday: swap the 14:00 PROMO slot (lost two weeks running).
+
+## 2026-11-14 (daily run)
+- **Facebook page still not in Buffer** (seventh day; list_channels: dateunoa IG, masculinepack IG, therichmath IG + TikTok). Owner needs to reconnect the Dateunoa page. Nov 15–21 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-21 (promo textback, day 2 of the holiday "send it to the group chat" week) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 15–20 IG checked: 12/12 each. Schedule filled through 2026-11-21 (IG only).
+- Removed an emoji from a T quote before rendering (quote images can't show emojis); overlap check clean.
+- Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 13 21:22, Nov 14 11:29, Nov 14 17:00) flagged by Instagram as potential spam; not dateunoa posts, left alone.
+- Still pending owner decision: swap the 14:00 PROMO slot (lost two weeks running). Theme calendar ends Nov 22; from Nov 23 the cycle repeats (Monday analytics should pick the order).
