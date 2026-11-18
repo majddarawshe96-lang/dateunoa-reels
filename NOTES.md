@@ -138,3 +138,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap/grep check caught "Mixed signals are a clear signal", the "not asking for a ring" W line, "you're different from other girls", the "talking so long" POV, "keeping my options open", the "If you've ever…" B opener, two thread slides (introduces you by name, asks about what you were nervous about) and a "being chosen" closer; all replaced before rendering. Swapped a dog joke for a playlist one (Nov 23 already had "meeting his dog").
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 16 21:22, Nov 17 11:33, Nov 17 16:55) flagged by Instagram as potential spam; not dateunoa posts, left alone.
 - Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post).
+
+## 2026-11-18 (daily run)
+- **Facebook page still not in Buffer** (eleventh day; list_channels: dateunoa IG, masculinepack IG, therichmath IG + TikTok). Owner needs to reconnect the Dateunoa page. Nov 15–25 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-25 (promo women_cover; mixed signals & situationships, day 3) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 19–24 IG checked: 12/12 each. Schedule filled through 2026-11-25 (IG only).
+- Overlap/grep check caught "I'm just bad at texting" (used Oct), a clarity line too close to "Clarity is not pressure", "anything serious right now" and "ruin what we have" translations, and a coffee-order slide; all replaced before rendering. Audio -17.3 dB; frames clean.
+- Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 17 21:24, Nov 18 11:28, Nov 18 16:53) flagged by Instagram as potential spam; not dateunoa posts, left alone.
+- Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post).
