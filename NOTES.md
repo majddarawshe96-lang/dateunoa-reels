@@ -152,3 +152,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap/grep check caught "I stopped asking what are we?", "I don't do labels", "fine with keeping it casual" translator, "guess where you stand", "you up?", "we'll see", "I miss you"/busy echo, "the right person won't…" and a group-chat stages thread (Stage 3 analysis); all replaced before rendering. Audio -17.4 dB; frames clean.
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 18 21:22, Nov 19 11:25, Nov 19 16:54) flagged by Instagram as potential spam; not dateunoa posts, left alone.
 - Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post).
+
+## 2026-11-20 (daily run)
+- **Facebook page still not in Buffer** (thirteenth day; list_channels: dateunoa IG, masculinepack IG, therichmath IG + TikTok). Owner needs to reconnect the Dateunoa page. Nov 15–27 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-27 (promo men_page; mixed signals & situationships, day 5) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 21–26 IG checked: 12/12 each. Schedule filled through 2026-11-27 (IG only).
+- Overlap/grep check caught a "You're overthinking it" translator (used before), "going with the flow" (used), a holidays-in-October M line too close to the holiday-plans threads, and a "preview" closer; all replaced. Fixed an orphan "again." line in the SHE reel after the frame check. Audio -17.5 dB.
+- Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 19 21:33, Nov 20 11:30, Nov 20 16:59) flagged by Instagram as potential spam; not dateunoa posts, left alone.
+- Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post). Theme calendar in PLAYBOOK runs out after Nov 29; Monday Nov 23 weekly check should add the next week.
