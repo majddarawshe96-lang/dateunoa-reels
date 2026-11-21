@@ -159,3 +159,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap/grep check caught a "You're overthinking it" translator (used before), "going with the flow" (used), a holidays-in-October M line too close to the holiday-plans threads, and a "preview" closer; all replaced. Fixed an orphan "again." line in the SHE reel after the frame check. Audio -17.5 dB.
 - Error posts in last 24 h: none of ours. masculinepack IG: three carousels (Nov 19 21:33, Nov 20 11:30, Nov 20 16:59) flagged by Instagram as potential spam; not dateunoa posts, left alone.
 - Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post). Theme calendar in PLAYBOOK runs out after Nov 29; Monday Nov 23 weekly check should add the next week.
+
+## 2026-11-21 (daily run)
+- **Facebook page still not in Buffer** (fourteenth day; list_channels: dateunoa IG, therichmath IG + TikTok, luciusorbit IG; masculinepack IG no longer listed). Owner needs to reconnect the Dateunoa page. Nov 15–28 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-28 (promo women_page; mixed signals & situationships, day 6) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 22–27 IG checked: 12/12 each. Schedule filled through 2026-11-28 (IG only).
+- Overlap check caught a "date three / still here" W line (near-copy of "a ring on date four"), a "Don't worry about it" SHE setup (used), a "we'll see"/"sister" M line, a "what are we? + one link" B line, a "when a man is actually sure" thread title, a "find out from him first" slide and an "in his week" echo; all replaced before rendering. Audio -17.9 dB; frames clean.
+- Error posts in last 24 h: none.
+- Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post). Theme calendar runs out after Nov 29; Monday Nov 23 weekly check should add the next week.
