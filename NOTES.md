@@ -166,3 +166,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap check caught a "date three / still here" W line (near-copy of "a ring on date four"), a "Don't worry about it" SHE setup (used), a "we'll see"/"sister" M line, a "what are we? + one link" B line, a "when a man is actually sure" thread title, a "find out from him first" slide and an "in his week" echo; all replaced before rendering. Audio -17.9 dB; frames clean.
 - Error posts in last 24 h: none.
 - Still pending owner decision: swap the 14:00 PROMO slot (lost three weeks running) and turn thread carousels into reels (reach ~3.5 per post). Theme calendar runs out after Nov 29; Monday Nov 23 weekly check should add the next week.
+
+## 2026-11-22 (daily run)
+- **Facebook page still not in Buffer** (fifteenth day; list_channels: dateunoa IG, therichmath IG + TikTok, luciusorbit IG). Owner needs to reconnect the Dateunoa page. Nov 15–29 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-11-29 (promo textback; mixed signals & situationships, day 7) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 23–28 IG checked: 12/12 each. Schedule filled through 2026-11-29 (IG only).
+- Overlap check caught a "You know how I feel about you" HE translator (near-copy), "a man who wants a future… talks about it", "Same energy Monday", good-morning-text echoes, a notes-app slide, "never felt like this" and "friends stop asking" slides; all replaced before rendering. Fixed an orphan "going." line in the W reel after the frame check. Audio -17.7 dB.
+- Error posts in last 24 h: none.
+- Theme calendar in PLAYBOOK ends Nov 29; tomorrow's Monday weekly check must pick the Nov 30 – Dec 6 theme. Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
