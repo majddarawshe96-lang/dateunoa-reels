@@ -76,6 +76,7 @@ Each week leans on one topic across all pillars, so the feed tells a story and t
 | Nov 13 – Nov 19 | Effort, consistency & what men/women actually notice | What Do Women Want? |
 | Nov 20 – Nov 22 | Holiday season: "send it to the group chat" gift angle | Bundle ($56) |
 | Nov 23 – Nov 29 | Mixed signals & situationships again (picked at the Nov 16 weekly check: best week so far by shares+saves) | What Do Men Want? |
+| Nov 30 – Dec 6 | Effort, consistency & what men/women actually notice again (picked at the Nov 23 weekly check: best per-post shares+saves of the Nov 16–22 data, 0.33/post vs 0.17 for the holiday days) | What Do Women Want? |
 After Nov 22, repeat the cycle with the Monday analytics deciding the order.
 
 ## Visual style (tools/make_post.py — don't change it)
