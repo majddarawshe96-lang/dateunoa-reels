@@ -3,7 +3,7 @@ DAYS = {"2026-12-01": {"promo": "women_page2", "posts": [
   ("T", "The reply time\nwasn't the problem.\n\nIt was that he answered\nmy long message\nwith one word.", "Send this to the friend who writes paragraphs 💬", "melancholy"),  # 08:15
   ("M", "Interested men\nare oddly specific.\n\nThe restaurant.\nThe time.\nWho's picking who up.", "Save this for the next vague invite 📌", "confident"),  # 09:45
   ("S", "I stopped filling\nthe silence for two.\n\nIf the conversation\nonly lives when I start it,\nI let it rest.", "Screenshot this for later 🤍", "hopeful"),  # 11:15
-  ("W", "Men: she notices\nif you ask a second question\nabout her day.\n\nThe first one is polite.\nThe second one is interest.", "Tag a man who puts the phone away 👀", "tender"),  # 12:45
+  ("W", "Men: she notices\nif you ask a second question\nabout her day.\n\nThe first one is polite.\nThe second one is interest.", "Tag a man who always asks the second question 👀", "tender"),  # 12:45
   ("HE", "He says: \"Send me the list,\nI'll grab it on the way.\"\n\nHe means: \"Your errands\nare my errands now.\"", "Green flag or overthinking? Comment 👇", "tender"),  # 15:45
   ("T", "Me: \"it's fine if you're busy\"\n\nAlso me: checking\nif he posted a story\nwhile he was \"busy.\"", "Tag the friend who checks the story first 😂", "playful"),  # 17:15
   ("SHE", "She says: \"It's not\na big deal.\"\n\nShe means: \"It's a small deal\nI'd love you to notice.\"", "Men, did you know this one? Comment 👇", "playful"),  # 18:45

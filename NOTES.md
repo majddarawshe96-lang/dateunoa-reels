@@ -183,3 +183,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - By theme: effort days Nov 16–19 16 shares+saves / 48 posts (0.33/post, 5.4k views); holiday "group chat" days Nov 20–22 6 / 36 (0.17/post); situationship Nov 23 (1 day) 4 / 7. Next theme for Nov 30 – Dec 6: effort & consistency (added to PLAYBOOK).
 - By slot (shares+saves / views): T 4 / 1.3k (Nov 23 08:15 top reel, 270 views), W 4 / 1.1k, B 4 / 0.9k, M 3, S 3, HE 3, SHE 3, M2 2, T2 0 / 0.96k, **PROMO 0 / 668 (last for the fourth week running)**, thread carousels 0 / ~5 views each (reach ~2 per post).
 - Decisions: keep T morning texting truths, "Men: …" W lines and translators. T2 17:15 relatable POV went to 0 this week; watch it next week before swapping. Still pending owner decision (not applied, changes the slot plan and tools): swap the 14:00 PROMO slot (lost four weeks running) for a second M/W reel with the promo in captions, and turn thread carousels into reels (they reach almost nobody).
+
+## 2026-11-24 (daily run)
+- **Facebook page still not in Buffer** (seventeenth day; list_channels: dateunoa IG, therichmath IG + TikTok, luciusorbit IG). Owner needs to reconnect the Dateunoa page. Nov 15 – Dec 1 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-12-01 (promo women_page2; effort & consistency, day 2) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 25–30 IG checked: 12/12 each. Schedule filled through 2026-12-01 (IG only).
+- Overlap check caught a "free on Saturday" M line, "phone face down" (used thread slide), an "I'll drive, you relax" HE translator, a "You don't have to plan anything big" SHE translator, a "Small things a man does when he's…" thread title, "None of it is big" and "how often she doesn't have to wonder" closers, and a coworker detail; all replaced before rendering. W hook updated to match its new quote. Audio -17.3 dB; frames clean.
+- Error posts in last 24 h: none.
+- Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
