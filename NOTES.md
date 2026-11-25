@@ -190,3 +190,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap check caught a "free on Saturday" M line, "phone face down" (used thread slide), an "I'll drive, you relax" HE translator, a "You don't have to plan anything big" SHE translator, a "Small things a man does when he's…" thread title, "None of it is big" and "how often she doesn't have to wonder" closers, and a coworker detail; all replaced before rendering. W hook updated to match its new quote. Audio -17.3 dB; frames clean.
 - Error posts in last 24 h: none.
 - Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
+
+## 2026-11-25 (daily run)
+- **Facebook page still not in Buffer** (eighteenth day; list_channels: dateunoa IG, therichmath IG + TikTok, luciusorbit IG). Owner needs to reconnect the Dateunoa page. Nov 15 – Dec 2 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-12-02 (promo men_cover; effort & consistency, day 3) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 26 – Dec 1 IG checked: 12/12 each. Schedule filled through 2026-12-02 (IG only).
+- Overlap check caught a "Did you eat? / I'm outside" M line, a "did what you said" W line, an "inconvenient" W line, a "fully charged phone" T2 line, a "which version / guessing" M2 line, a "plans don't need reminders" slide, a "rehearsing how to bring it up" slide and a "None of it… All of it…" closer; all replaced before rendering. Audio -17.7 dB; frames clean.
+- Error posts in last 24 h: none.
+- Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
