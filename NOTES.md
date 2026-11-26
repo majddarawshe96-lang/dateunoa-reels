@@ -197,3 +197,10 @@ Data: Buffer metrics for our sent posts Oct 26 – Nov 2 (81 IG, 81 FB; threads 
 - Overlap check caught a "Did you eat? / I'm outside" M line, a "did what you said" W line, an "inconvenient" W line, a "fully charged phone" T2 line, a "which version / guessing" M2 line, a "plans don't need reminders" slide, a "rehearsing how to bring it up" slide and a "None of it… All of it…" closer; all replaced before rendering. Audio -17.7 dB; frames clean.
 - Error posts in last 24 h: none.
 - Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
+
+## 2026-11-26 (daily run)
+- **Facebook page still not in Buffer** (nineteenth day; list_channels: dateunoa IG, therichmath IG + TikTok, luciusorbit IG). Owner needs to reconnect the Dateunoa page. Nov 15 – Dec 3 Facebook reels/carousels are rendered and in the repo, ready to schedule once it is back.
+- Scheduled 2026-12-03 (promo women_cover; effort & consistency, day 4) on Instagram: 10 reels + 2 thread carousels (12 posts), all scheduled, no errors. Nov 27 – Dec 2 IG checked: 12/12 each. Schedule filled through 2026-12-03 (IG only).
+- Overlap check caught an "It's fine…" SHE translator, a "sister" translator, a "lands / texts when he lands" HE line, a "Thursday / next weekend" M line, a "Some people… three short books" B line, the "how the meeting went" slide (near-copy), coworker, coffee-order, street-side, movie-seat and "second question" slides; all replaced before rendering. Audio -18.0 dB; frames clean.
+- Error posts in last 24 h: none.
+- Still pending owner decision: 14:00 PROMO slot swap and carousels → reels.
